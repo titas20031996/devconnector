@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://titas:titas123@devconnector-ezqds.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "b74c8544444da59b537b",
+  "githubSecret": "6ec806662542ba7ceb434699caf92a9f718391eb"
+
+}
